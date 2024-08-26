@@ -1,12 +1,12 @@
-# Test Startup Page
+# Test Startup Page 🚀
 
 *This is a simple test startup page hosted on GitHub Pages. The project consists of the following files:*
 
 **index.html**: The main HTML file that defines the structure and content of the webpage.  
-**styles.css**: The CSS file that contains the styles for the webpage.  
-**script.js**: The JavaScript file for adding interactivity to the page.
+**styles.css**: The CSS file that contains the styles for the web page. 🎨  
+**script.js**: The JavaScript file for adding interactivity to the page. 💻
 
-## README.md
+## README.md 📖
 
 This file provides an overview and instructions.
 
